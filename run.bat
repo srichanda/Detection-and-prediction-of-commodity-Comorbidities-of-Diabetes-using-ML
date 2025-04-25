@@ -1,0 +1,2 @@
+python ComorbidityDiabetes.py
+pause
